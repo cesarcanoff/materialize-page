@@ -1,6 +1,6 @@
 <h1>Materialize Page</h1>
 
-Essa página foi criada para praticar o uso da biblioteca MaterializeCSS, juntamente com isso, também o uso componentes da biblioteca em questão.
+This page was created to practice the use of the MaterializeCSS library, and along with that, also the use of components from the library in question.
 
 <h3>Used Technologies</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
